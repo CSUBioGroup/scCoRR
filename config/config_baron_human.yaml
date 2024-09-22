@@ -1,0 +1,33 @@
+seed: 42
+workers: 10
+ 
+K: 4096
+max_element: 95536 
+m: 0.999
+n: 3
+c: 1
+T: 0.99 
+p: 0.2
+mlp_a: 5
+lam: 0.1
+alpha: 0.1
+learning_rate: 0.0003
+num_genes: 2000 
+top_markers: 100
+k_for_anchor: 20
+coefficient_neighbor: 0.8
+coefficient_prune: 0.45
+latent_feature: [1024, 512, 128]
+epochs: 60
+classnum: 14
+start_epoch: 1
+batch_size: 128
+resolution: 0.3
+
+reload: False   
+flag: aug_nn
+model_path: states/baron_human/con
+data_type: h5_new
+dataset_name: baron_human
+root_dir: data
+data_path: processed/baron_human
