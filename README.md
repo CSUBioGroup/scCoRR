@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 ## Datasets
 
-Some of data used in our experiments can be found in [`data`](https://github.com/CSUBioGroup/scCoRR/tree/main/data). Web service can found in [`zenodo`](http://csuligroup.com:8080/sccorr/)
+Some of data used in our experiments and Web service can be found [`here`](http://csuligroup.com:8080/sccorr/)
 
 ## Usage
 
