@@ -26,7 +26,7 @@ Some of data used in our experiments and Web service can be found [`here`](http:
 
 ## Usage
 
-We provide the scripts for running scCoRR. And the hyperparameters can be found in [`config`](https://github.com/CSUBioGroup/scCoRR/tree/main/config).
+We provide the scripts for running scCoRR. The parameters and some main parameter description can be found in [`config`](https://github.com/CSUBioGroup/scCoRR/tree/main/config).
 
 First, get anchor cells.
 
